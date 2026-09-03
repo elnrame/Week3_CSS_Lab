@@ -5,7 +5,6 @@ body {8888
     line-height: 1.6;
     background-color: #f0f0f0;
 }
-
 header {
     background-color: #333;
     color: #fff;
@@ -34,7 +33,6 @@ nav ul li a:hover {
 }
 
 
-
 main {
 
     padding: 20px;
@@ -47,33 +45,26 @@ section {
     border: 1px solid #ddd;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
 }
-
 form {
     display: flex;
     flex-direction: column;
-
 }
 input, textarea, button {
     margin-bottom: 10px;
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
-
 }
 button {
     background-color: #007bff;
     color: white;
     border: none;
     cursor: pointer;
-
 }
-
 button:hover {
     background-color: #0056b3;
 
 }
-
-
 footer {
     text-align: center;
     padding: 10px;
