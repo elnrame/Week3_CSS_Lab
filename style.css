@@ -1,13 +1,13 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Times New Roman, Times, serif;
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    background-color: #f0f0f0;
+    background-color: #785949;
 }
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #A67C66;
+    color: #3E2E26
     padding: 20px;
     text-align: center;
 }
@@ -56,20 +56,21 @@ input, textarea, button {
     border-radius: 5px;
 }
 button {
-    background-color: #007bff;
-    color: white;
+    background-color: #D4A694;
+    color: #3E2E26;
     border: none;
     cursor: pointer;
+    font-family: Times New Roman, Times, serif;
 }
 button:hover {
-    background-color: #0056b3;
+    background-color: #b67f6d;
 
 }
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #333;
-    color: #fff;
+    background-color: #fff;
+    color: #A67C66;
 
 }
 
