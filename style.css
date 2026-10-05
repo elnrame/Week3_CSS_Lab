@@ -5,6 +5,11 @@ body {
     line-height: 1.6;
     background-color: #785949;
 }
+
+body {
+  color: #3E2E26 !important;
+} 
+
 header {
     background-color: #A67C66;
     color: #3E2E26
