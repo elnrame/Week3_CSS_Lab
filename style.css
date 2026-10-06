@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    background-color: #785949;
+    background-color: #C98F8F;
 }
 
 body {
@@ -11,7 +11,7 @@ body {
 } 
 
 header {
-    background-color: #A67C66;
+    background-color: #9B7065;
     color: #3E2E26
     padding 20px;
     text-align: center;
@@ -46,7 +46,7 @@ main {
 section {
     margin-bottom: 20px;
     padding: 10px;
-    background-color: #fff;
+    background-color: #F5E4E1;
     border: 1px solid #ddd;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
 }
@@ -61,14 +61,14 @@ input, textarea, button {
     border-radius: 5px;
 }
 button {
-    background-color: #D4A694;
+    background-color: #B97A7A;
     color: #3E2E26;
     border: none;
     cursor: pointer;
     font-family: Times New Roman, Times, serif;
 }
 button:hover {
-    background-color: #b67f6d;
+    background-color: #bd8d83;
 
 }
 footer {
